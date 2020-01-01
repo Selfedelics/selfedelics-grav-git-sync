@@ -1,10 +1,14 @@
 ---
 title: 'Spore Printing and Spore Syringe Preparation'
+media_order: 'loadjar.jpg,rodjar.jpg,libcap1.jpg'
 taxonomy:
     category:
         - docs
 visible: true
 ---
+
+
+![](libcap1.jpg)
 
 Shroom caps (PS. SEMILANCEATA) printing while sitting on a wire holder
 
@@ -43,8 +47,13 @@ Boil a pot of water. Draw boiling water into a syringe and squirt it out several
 
 The main point of this technique would be to expose the interior of the jar to as little room air as possible. Always protect the holes in the lid by placing tin foil or sterile surgical tape over the holes before and after this procedure.
 
+![](rodjar.jpg)
+
 A GLASS LAB STIRRING ROD IS USED TO SCRAPE SPORES OFF THE BOTTOM OF THE JAR AND INTO THE WATER (they stick to the bottom when printed)
+
 THE SYRINGE IS INSERTED THROUGH THE NEEDLE HOLE AND SUCTIONS OUT SPORE SOLUTION
+
+![](loadjar.jpg)
 
 1. Inject sterile water into the spore print jar through the needle hole.
 2. Flame sterilize the glass stirring rod and let it cool a minute. Insert it through the center lid hole and with the rod end, scrape spores into the water.
