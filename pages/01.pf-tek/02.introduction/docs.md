@@ -1,18 +1,23 @@
 ---
-title: Introduction
+title: 'Introduction to PF TEK'
+media_order: 'pfcycle.jpg,superpf.jpg'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-# Introduction to PF TEK
+by Robert McPherson (aka 'Psylocybe Fanaticus' or 'Professor Fanaticus')
+
+![](superpf.jpg)
 
 These chapters are my famous PF TEK - the mushroom tek that has changed the world of magic mushroom cultivation. This is what the Feds didn't like and what the inquisition was all about. This is the essential version that is now world wide and practiced by thousands of mycofiles around the world.
 
 The PF TEK is basically a brown rice method with an improved formula by using vermiculite as a base and adding pulverized brown rice. The secret is in the vermiculite. When mycelium is cultured in just grain, the mycelium turns into a mass with little air space. But when grown with vermiculite, the mycelial threads stretch across space. The important thing about the PF TEK, is that it copies nature. Instead of the usual cloning of mushroom tissue and growing mushrooms from that, a mass spore inoculation is employed directly to the fruiting substrate. That way, the genotype remains complete. Senescence (mutating and ceased fruiting) is no longer a problem. The spores insure a never ending succession of fungus, with all the power of the spores reproductive ability intact.
 
 ## OVERVIEW OF PF TECHNIQUES
+
+![](pfcycle.jpg)
 
 1. Brown rice powder, vermiculite and distilled water are mixed and loaded into a 1/2 pint jar, which is steam sterilized. The jar is then inoculated by the spore syringe.
 2. After the substrate cake in the jar colonizes and begins to show signs of fruiting, the cake is released from the jar and placed into the dual chambered terrarium to fruit.
